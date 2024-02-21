@@ -61,3 +61,7 @@ body {
     display: none;
   }
 }
+
+body {
+  background-color: #cdcdcd;
+}
